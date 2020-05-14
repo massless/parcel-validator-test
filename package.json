@@ -1,0 +1,22 @@
+{
+  "name": "parcel-validator-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel serve index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.9.0",
+    "@parcel/babel-preset": "^2.0.0-alpha.2",
+    "@parcel/validator-eslint": "^2.0.0-nightly.266",
+    "@parcel/validator-typescript": "^2.0.0-nightly.266",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.20.0",
+    "parcel": "^2.0.0-nightly.266",
+    "react-dom": "^16.13.1",
+    "typescript": "^3.9.2"
+  }
+}
